@@ -18,3 +18,6 @@ Time period: 1970-2017, except 1993
 Unit of analysis: Attack
 
 Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes
+
+
+Access this link to know detail of columns: https://start.umd.edu/gtd/downloads/Codebook.pdf
