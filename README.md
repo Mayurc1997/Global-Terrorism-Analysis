@@ -1,6 +1,8 @@
 # GLOBAL TERRORISM ANALYSIS
 # [AlmaBetter Verified Project](www.almabetter.com)
 
+## [Tableau Dashboard](https://public.tableau.com/app/profile/mayur.chulbhare/viz/GlobalTerrorismAnalysis_16707792949610/Dashboard1?publish=yes)
+
 
 This project provides an interactive visualization platform of the global terrorism attacks, to better support the researchers with deeper understandings of the patterns and regularities of the current world terrorism conflicts. This system seeks and presents potential correlations, clustering performances and feature rankings of different countries and parties, associated with types of attacks and casualties.
 
